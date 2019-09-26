@@ -6,7 +6,7 @@
  * Time: 9:24
  */
 //hahha
-//访问常量const用self
+//访问常量const用selfklkjkjlkjlk
 //访问变量const用this
 //类中的静态属性可以直接访问
 //1.静态方法只能操作静态变量
