@@ -5,7 +5,7 @@
  * Date: 2019/9/26
  * Time: 9:24
  */
-
+//hahha
 //访问常量const用self
 //访问变量const用this
 //类中的静态属性可以直接访问
