@@ -45,7 +45,7 @@ require_once "admin_init.php";
                     var msg = data.msg;
                     switch (code) {
                         case 1:
-                            layer.alert(msg, {icon: 6}, function (index) {
+                            layer.alert(msg, {icon: 6}, function () {
                                 location.reload();
                             });
                             break;
@@ -61,7 +61,7 @@ require_once "admin_init.php";
 <div id="app">
     <div class="coupon" style="background-color: #f6f6f6">
         <div class="coupon_tab">
-            <button type="submit" id="btn" onclick="test()">btn</button>
+            <button onclick="test()"></button>
         </div>
     </div>
 </div>
